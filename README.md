@@ -1,4 +1,3 @@
-# NetworkingProject
 # Network Programming Lab - Final Project Guidelines
 # The final project is a hybrid P2P and client-server gaming platform with a game that uses it.
 # First we describe the platform: The functional requirements of the platform are:
